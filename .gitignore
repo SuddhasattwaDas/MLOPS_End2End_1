@@ -1,1 +1,2 @@
-myvenv/
+python==3.10/
+venv/
